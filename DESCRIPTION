@@ -1,0 +1,11 @@
+Package: AHAux
+Type: Package
+Title: AH Model with Auxiliary Information
+Version: 0.1.0
+Author: Ranran Li
+Maintainer: Ranran Li <liranran@mail.dlut.edu.cn>
+Description: Generalized moment estimation of additive hazard model with population-level covarite effect information.
+License:  `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
